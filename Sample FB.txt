@@ -2,4 +2,6 @@
 
 2,Feed Page
 
-3, Exit
+3,friend list
+
+4, Exit
